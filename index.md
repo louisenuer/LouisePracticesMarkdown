@@ -10,4 +10,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 This isn't actually code, but we're going to pretend it is
 ```
-
+### Now Here is a task List
+- [ ] Do a thing
+- [ ] Do another thing
+- [ ] Do a third thing
